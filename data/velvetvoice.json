@@ -1,0 +1,520 @@
+{
+  "users": {
+    "user_luna": {
+      "id": "user_luna",
+      "name": "Luna ✨",
+      "avatar": "preset:luna",
+      "bio": "Late night acoustic host & friendship party creator.",
+      "authMethod": "google",
+      "email": "luna@velvetvoice.club",
+      "level": 8,
+      "xp": 640,
+      "coins": 128100,
+      "diamonds": 1450,
+      "giftsSent": 42,
+      "giftsReceived": 318,
+      "followingIds": [
+        "user_kai",
+        "user_zara"
+      ],
+      "followerCount": 1284,
+      "isOnline": true
+    },
+    "user_kai": {
+      "id": "user_kai",
+      "name": "Kai Beats",
+      "avatar": "preset:kai",
+      "bio": "Producer & midnight lo-fi sets. Pull up a seat!",
+      "authMethod": "google",
+      "email": "kai@velvetvoice.club",
+      "level": 6,
+      "xp": 310,
+      "coins": 84200,
+      "diamonds": 820,
+      "giftsSent": 29,
+      "giftsReceived": 190,
+      "followingIds": [
+        "user_luna"
+      ],
+      "followerCount": 845,
+      "isOnline": true
+    },
+    "user_zara": {
+      "id": "user_zara",
+      "name": "Zara Velvet",
+      "avatar": "preset:zara",
+      "bio": "Storytelling, trivia nights & rocket squad.",
+      "authMethod": "phone",
+      "phone": "+1 555 014 8821",
+      "level": 5,
+      "xp": 220,
+      "coins": 64000,
+      "diamonds": 540,
+      "giftsSent": 64,
+      "giftsReceived": 142,
+      "followingIds": [
+        "user_luna",
+        "user_kai"
+      ],
+      "followerCount": 612,
+      "isOnline": true
+    },
+    "user_1794711993564_bpf7": {
+      "id": "user_1794711993564_bpf7",
+      "name": "Member 8910",
+      "avatar": "preset:zara",
+      "bio": "Joined via Phone Verification.",
+      "authMethod": "phone",
+      "phone": "+1 555 234 8910",
+      "level": 2,
+      "xp": 60,
+      "coins": 64500,
+      "diamonds": 750,
+      "giftsSent": 0,
+      "giftsReceived": 0,
+      "followingIds": [
+        "user_luna"
+      ],
+      "followerCount": 1,
+      "isOnline": true
+    },
+    "guest_1794712814380_7922": {
+      "id": "guest_1794712814380_7922",
+      "name": "Guest 7922",
+      "avatar": "preset:zara",
+      "bio": "Exploring live voice lounges & mini-games.",
+      "authMethod": "guest",
+      "level": 1,
+      "xp": 0,
+      "coins": 500000,
+      "diamonds": 500,
+      "giftsSent": 0,
+      "giftsReceived": 0,
+      "followingIds": [
+        "user_luna"
+      ],
+      "followerCount": 0,
+      "isOnline": true
+    },
+    "user_1794713266536_k7tc": {
+      "id": "user_1794713266536_k7tc",
+      "name": "Zeeshan",
+      "avatar": "preset:kai",
+      "bio": "Signed in with Google · Ready for party rooms.",
+      "authMethod": "google",
+      "email": "zahmad836i@gmail.com",
+      "level": 2,
+      "xp": 75,
+      "coins": 10000000000,
+      "diamonds": 900,
+      "giftsSent": 0,
+      "giftsReceived": 0,
+      "followingIds": [
+        "user_luna",
+        "user_kai"
+      ],
+      "followerCount": 2,
+      "isOnline": true,
+      "lastDailyRewardDate": "2026-11-15",
+      "dailyRewardClaimedAmount": 50000,
+      "zeeshanWalletGranted": true
+    }
+  },
+  "rooms": {
+    "15091591": {
+      "id": "15091591",
+      "title": "h",
+      "topic": "h",
+      "category": "Friendship Party",
+      "coverImage": "preset:chill",
+      "hostId": "user_1794711993564_bpf7",
+      "hostName": "Member 8910",
+      "hostAvatar": "preset:zara",
+      "onlineCount": 4,
+      "announcement": "Welcome to h! Grab a seat and turn on your mic.",
+      "seats": [
+        {
+          "seatIndex": 0,
+          "userId": null,
+          "userName": null,
+          "userAvatar": null,
+          "userLevel": 1,
+          "micOn": false,
+          "speaking": false,
+          "locked": false,
+          "hearts": 124
+        },
+        {
+          "seatIndex": 1,
+          "userId": null,
+          "userName": null,
+          "userAvatar": null,
+          "userLevel": 1,
+          "micOn": false,
+          "speaking": false,
+          "locked": false,
+          "hearts": 0
+        },
+        {
+          "seatIndex": 2,
+          "userId": null,
+          "userName": null,
+          "userAvatar": null,
+          "userLevel": 1,
+          "micOn": false,
+          "speaking": false,
+          "locked": false,
+          "hearts": 0
+        },
+        {
+          "seatIndex": 3,
+          "userId": null,
+          "userName": null,
+          "userAvatar": null,
+          "userLevel": 1,
+          "micOn": false,
+          "speaking": false,
+          "locked": false,
+          "hearts": 0
+        },
+        {
+          "seatIndex": 4,
+          "userId": null,
+          "userName": null,
+          "userAvatar": null,
+          "userLevel": 1,
+          "micOn": false,
+          "speaking": false,
+          "locked": false,
+          "hearts": 0
+        },
+        {
+          "seatIndex": 5,
+          "userId": null,
+          "userName": null,
+          "userAvatar": null,
+          "userLevel": 1,
+          "micOn": false,
+          "speaking": false,
+          "locked": false,
+          "hearts": 0
+        },
+        {
+          "seatIndex": 6,
+          "userId": null,
+          "userName": null,
+          "userAvatar": null,
+          "userLevel": 1,
+          "micOn": false,
+          "speaking": false,
+          "locked": false,
+          "hearts": 0
+        },
+        {
+          "seatIndex": 7,
+          "userId": null,
+          "userName": null,
+          "userAvatar": null,
+          "userLevel": 1,
+          "micOn": false,
+          "speaking": false,
+          "locked": false,
+          "hearts": 0
+        },
+        {
+          "seatIndex": 8,
+          "userId": null,
+          "userName": null,
+          "userAvatar": null,
+          "userLevel": 1,
+          "micOn": false,
+          "speaking": false,
+          "locked": false,
+          "hearts": 0
+        }
+      ],
+      "messages": [
+        {
+          "id": "msg_1794712015891",
+          "roomId": "15091591",
+          "type": "system",
+          "userId": "system",
+          "userName": "VelvetVoice",
+          "userLevel": 0,
+          "text": "Member 8910 created this Friendship Party room.",
+          "timestamp": 1794712015891
+        },
+        {
+          "id": "sys_1794712043060_zg2",
+          "roomId": "15091591",
+          "type": "system",
+          "userId": "user_1794711993564_bpf7",
+          "userName": "Member 8910",
+          "userLevel": 1,
+          "text": "Member 8910 entered the room",
+          "timestamp": 1794712043060
+        },
+        {
+          "id": "sys_1794712399570_qxi",
+          "roomId": "15091591",
+          "type": "system",
+          "userId": "user_1794711993564_bpf7",
+          "userName": "Member 8910",
+          "userLevel": 1,
+          "text": "Member 8910 entered the room",
+          "timestamp": 1794712399570
+        },
+        {
+          "id": "sys_1794712496958_l5x",
+          "roomId": "15091591",
+          "type": "system",
+          "userId": "user_1794711993564_bpf7",
+          "userName": "Member 8910",
+          "userLevel": 1,
+          "text": "Member 8910 entered the room",
+          "timestamp": 1794712496958
+        },
+        {
+          "id": "sys_1794712723001_fgr",
+          "roomId": "15091591",
+          "type": "system",
+          "userId": "user_1794711993564_bpf7",
+          "userName": "Member 8910",
+          "userLevel": 1,
+          "text": "Member 8910 entered the room",
+          "timestamp": 1794712723001
+        },
+        {
+          "id": "sys_1794712823329_a8m",
+          "roomId": "15091591",
+          "type": "system",
+          "userId": "user_1794711993564_bpf7",
+          "userName": "Member 8910",
+          "userLevel": 2,
+          "text": "Member 8910 entered the room",
+          "timestamp": 1794712823329
+        }
+      ]
+    },
+    "46326221": {
+      "id": "46326221",
+      "title": "j",
+      "topic": "h",
+      "category": "Friendship Party",
+      "coverImage": "preset:chill",
+      "hostId": "user_1794713266536_k7tc",
+      "hostName": "Zeeshan",
+      "hostAvatar": "preset:kai",
+      "onlineCount": 1,
+      "announcement": "Welcome to j! Grab a seat and turn on your mic.",
+      "seats": [
+        {
+          "seatIndex": 0,
+          "userId": "user_1794713266536_k7tc",
+          "userName": "Zeeshan",
+          "userAvatar": "preset:kai",
+          "userLevel": 2,
+          "micOn": true,
+          "speaking": false,
+          "locked": false,
+          "hearts": 124
+        },
+        {
+          "seatIndex": 1,
+          "userId": null,
+          "userName": null,
+          "userAvatar": null,
+          "userLevel": 1,
+          "micOn": false,
+          "speaking": false,
+          "locked": false,
+          "hearts": 0
+        },
+        {
+          "seatIndex": 2,
+          "userId": null,
+          "userName": null,
+          "userAvatar": null,
+          "userLevel": 1,
+          "micOn": false,
+          "speaking": false,
+          "locked": false,
+          "hearts": 0
+        },
+        {
+          "seatIndex": 3,
+          "userId": null,
+          "userName": null,
+          "userAvatar": null,
+          "userLevel": 1,
+          "micOn": false,
+          "speaking": false,
+          "locked": false,
+          "hearts": 0
+        },
+        {
+          "seatIndex": 4,
+          "userId": null,
+          "userName": null,
+          "userAvatar": null,
+          "userLevel": 1,
+          "micOn": false,
+          "speaking": false,
+          "locked": false,
+          "hearts": 0
+        },
+        {
+          "seatIndex": 5,
+          "userId": null,
+          "userName": null,
+          "userAvatar": null,
+          "userLevel": 1,
+          "micOn": false,
+          "speaking": false,
+          "locked": false,
+          "hearts": 0
+        },
+        {
+          "seatIndex": 6,
+          "userId": null,
+          "userName": null,
+          "userAvatar": null,
+          "userLevel": 1,
+          "micOn": false,
+          "speaking": false,
+          "locked": false,
+          "hearts": 0
+        },
+        {
+          "seatIndex": 7,
+          "userId": null,
+          "userName": null,
+          "userAvatar": null,
+          "userLevel": 1,
+          "micOn": false,
+          "speaking": false,
+          "locked": false,
+          "hearts": 0
+        },
+        {
+          "seatIndex": 8,
+          "userId": null,
+          "userName": null,
+          "userAvatar": null,
+          "userLevel": 1,
+          "micOn": false,
+          "speaking": false,
+          "locked": false,
+          "hearts": 0
+        }
+      ],
+      "messages": [
+        {
+          "id": "msg_1794713610919",
+          "roomId": "46326221",
+          "type": "system",
+          "userId": "system",
+          "userName": "Zariya",
+          "userLevel": 0,
+          "text": "Zeeshan created this Friendship Party room.",
+          "timestamp": 1794713610919
+        },
+        {
+          "id": "sys_1794713612549_fpl",
+          "roomId": "46326221",
+          "type": "system",
+          "userId": "user_1794713266536_k7tc",
+          "userName": "Zeeshan",
+          "userLevel": 2,
+          "text": "Zeeshan entered the room",
+          "timestamp": 1794713612549
+        },
+        {
+          "id": "sys_1794713880621_sc5",
+          "roomId": "46326221",
+          "type": "system",
+          "userId": "user_1794713266536_k7tc",
+          "userName": "Zeeshan",
+          "userLevel": 2,
+          "text": "Zeeshan entered the room",
+          "timestamp": 1794713880621
+        }
+      ]
+    }
+  },
+  "directMessages": [
+    {
+      "id": "dm_seed_1",
+      "fromUserId": "user_luna",
+      "toUserId": "user_kai",
+      "text": "Hey Kai, ready for the late-night session?",
+      "timestamp": 1794708249042
+    }
+  ],
+  "rocketHistory": [
+    1.63,
+    1.08,
+    1.38,
+    1.22,
+    1.55,
+    1.22,
+    3.01,
+    10.62,
+    1.92,
+    1.23,
+    1.25,
+    15.28,
+    1.38,
+    1.96,
+    19.18,
+    1.38,
+    1.09,
+    1.84,
+    2.11,
+    1.87
+  ],
+  "wheelHistory": [
+    "bmw",
+    "bmw",
+    "mercedes",
+    "lamborghini",
+    "bmw",
+    "bmw",
+    "vw",
+    "bmw",
+    "vw",
+    "bmw",
+    "jaguar",
+    "vw",
+    "vw",
+    "vw",
+    "jaguar",
+    "bmw",
+    "landrover",
+    "lamborghini",
+    "vw",
+    "bmw"
+  ],
+  "fruitHistory": [
+    "watermelon",
+    "grapes",
+    "grapes",
+    "strawberry",
+    "watermelon",
+    "watermelon",
+    "watermelon",
+    "grapes",
+    "strawberry",
+    "lemon",
+    "pineapple",
+    "watermelon",
+    "lemon",
+    "watermelon",
+    "grapes",
+    "watermelon",
+    "strawberry",
+    "strawberry",
+    "grapes",
+    "watermelon"
+  ]
+}

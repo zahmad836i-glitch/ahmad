@@ -1,0 +1,6 @@
+{
+  "name": "VelvetVoice",
+  "description": "Live multi-seat voice party rooms, real-time room chat, social gifting, and live rocket & lucky wheel mini-games.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
